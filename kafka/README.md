@@ -81,7 +81,7 @@ For each release candidate and final release, perform the following steps:
 
 ### Update bundle to latest librdkafka
 
-See instructions in [kafka/librdkafka/README.md](kafka/librdkafka/README.md).
+See instructions in [kafka/librdkafka/README.md](kafka/librdkafka_vendor/README.md).
 
 
 ### Update librdkafka version requirement
