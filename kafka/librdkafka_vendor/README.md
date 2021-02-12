@@ -10,7 +10,7 @@ versions of librdkafka for the following platforms:
 ## Import static librdkafka bundle
 
 First create the static librdkafka bundle following the instructions in
-librdkafka's packaging/nuget/README.md.
+librdkafka's [packaging/nuget/README.md](https://github.com/edenhill/librdkafka/tree/master/packaging/nuget).
 
 Then import the new version by using the import.sh script here, this script
 will create a branch, import the bundle, create a commit and push the
